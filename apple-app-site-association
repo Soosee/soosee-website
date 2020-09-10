@@ -1,14 +1,5 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "D35B5Y6JX8.me.kushagra.Unwind",
-                "paths": [ "*"]
-            }
-        ]
-    },
     "appclips": {
-        "apps": ["D35B5Y6JX8.me.kushagra.Unwind.Clip"]
+        "apps": ["8Q7TMPA46J.com.goodsnooze.allergy.Clip"]
     }
 }
